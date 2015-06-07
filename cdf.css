@@ -1,7 +1,7 @@
 /* Estilo de impresión de Codeformat. */
 
 /* SPAN elements with the classes below are added by prettyprint. */
-.pln { color: #008 }  /* plain text */
+.pln { color: #000 }  /* plain text */
 
 @media screen {
   .str { color: #800 }  /* cdf string content */
@@ -49,4 +49,4 @@ li.L1,
 li.L3,
 li.L5,
 li.L7,
-li.L9 { background: #eee }
+li.L9 { background: #fefefe }
